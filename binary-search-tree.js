@@ -71,7 +71,7 @@ class Tree {
   }
 
   // The code have been copied and adapted from https://medium.com/@manishsundriyal/merge-sort-in-javascript-9ae48897c5e9
-  // I already knew top-down merge algorithm thanks to The Odin Project.
+  
   mergeSort(rawData) {
     const mergeSortedList = function (leftList, rightList) {
       let sortedList = [];
